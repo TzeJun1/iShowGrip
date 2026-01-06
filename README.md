@@ -1,3 +1,7 @@
+# roboArm
+
+This robot aims to alleivate the suffering of tremor among elderly by creating a self-balancing robot arm that incorporates AI visual recognition to perform actions that requires accuracy and control 
+
 # hand-gesture-recognition-using-mediapipe
 Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
 program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
@@ -22,7 +26,7 @@ This repository contains the following contents.
 # Demo
 Here's how to run the demo using your webcam.
 ```bash
-python app.py
+
 ```
 
 The following options can be specified when running the demo.
