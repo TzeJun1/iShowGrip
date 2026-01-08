@@ -1,0 +1,34 @@
+# --- Core Computer Vision ---
+# cvzone 1.6+ is required for Python 3.10+
+cvzone>=1.6.1
+
+# Ultralytics (YOLOv8 / YOLO11)
+ultralytics>=8.3.0
+
+# --- Tracking Support (CRITICAL) ---
+# 'lap' is dead. 'lapx' is the modern replacement for Python 3.10+
+lapx>=0.5.5
+
+# --- Math & Data Science ---
+# Note: We pin numpy < 2.0 because many libraries (like older scipy/opencv)
+# are not yet ready for the major changes in NumPy 2.0.
+numpy<2.0.0
+scipy>=1.10.0
+filterpy>=1.4.5
+
+# --- Image Processing ---
+opencv-python>=4.9.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+matplotlib>=3.8.0
+
+# --- Deep Learning (PyTorch) ---
+# These will grab the latest stable version compatible with your OS
+torch
+torchvision
+
+# --- Utilities ---
+hydra-core>=1.3.0
+tqdm>=4.66.0
+PyYAML>=6.0.1
+requests>=2.31.0
