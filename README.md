@@ -12,29 +12,6 @@ This robot aims to alleviate the suffering of tremor among the elderly by creati
 * **Predictive Filtering:** Implements **Kalman Filters** (`filterpy`) for smooth state estimation.
 * **Serial Communication:** Communicates with microcontrollers (Arduino/ESP32) via `pyserial`.
 
-## 🛠️ Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-
-2.  **Create a Virtual Environment (Recommended):**
-    ```bash
-    # Windows
-    python -m venv venv
-    venv\Scripts\activate
-
-    # Mac/Linux
-    python3 -m venv venv
-    source venv/bin/activate
-    ```
-
-3.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## 🧩 Dependencies & Licenses
 
