@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-Apache_2.0-green)
 
 ## 📖 Introduction
-This robot aims to alleviate the suffering of tremor among the elderly by creating a self-balancing robot arm. It incorporates AI visual recognition (Computer Vision) to perform actions that require accuracy and control, compensating for involuntary movements.
+This prototype aims to alleviate the suffering of tremor among the elderly by creating a self-balancing robot arm. It incorporates AI visual recognition (Computer Vision) to perform actions that require accuracy and control, compensating for involuntary movements.
 
 ## ⚙️ Features
 * **Active Stabilization:** Uses IMU sensor data to counteract tremors in real-time.
