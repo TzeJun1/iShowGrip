@@ -8,7 +8,7 @@ This prototype aims to alleviate the suffering of tremor among the elderly by cr
 
 ## 🎥 Demo
 ![Stabilization + Grip Demo](media/demo_vid.gif)
-* **To run the script:** py test.py
+* **To run the script:** py main.py
 * **To close the script:** press q
 
 ## ⚙️ Features
