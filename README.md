@@ -6,6 +6,9 @@
 ## 📖 Introduction
 This prototype aims to alleviate the suffering of tremor among the elderly by creating a self-balancing robot arm. It incorporates AI visual recognition (Computer Vision) to perform actions that require accuracy and control, compensating for involuntary movements.
 
+## 🎥 Demo
+![Stabilization + Grip Demo](assets/demo_vid.gif)
+
 ## ⚙️ Features
 * **Active Stabilization:** Uses IMU sensor data to counteract tremors in real-time.
 * **Computer Vision:** Powered by **YOLO** and **MediaPipe** for object detection and hand tracking.
