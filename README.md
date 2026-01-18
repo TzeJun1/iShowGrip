@@ -14,7 +14,6 @@ This prototype aims to alleviate the suffering of tremor among the elderly by cr
 ## ⚙️ Features
 * **Active Stabilization:** Uses IMU sensor data to counteract tremors in real-time.
 * **Computer Vision:** Powered by **YOLO** and **MediaPipe** for object detection and hand tracking.
-* **Predictive Filtering:** Implements **Kalman Filters** (`filterpy`) for smooth state estimation.
 * **Serial Communication:** Communicates with microcontrollers (Arduino/ESP32) via `pyserial`.
 
 
